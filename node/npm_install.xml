@@ -8,3 +8,4 @@ keywords: npm
 <exec command="npm">
   <arg>install</arg>
 </exec>
+
