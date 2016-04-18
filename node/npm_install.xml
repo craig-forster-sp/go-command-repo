@@ -6,4 +6,5 @@ authorinfo: craig.forster@sailpoint.com
 keywords: npm
 -->
 <exec command="npm">
-<arg>install</arg>
+  <arg>install</arg>
+</exec>
