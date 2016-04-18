@@ -1,0 +1,9 @@
+<!--
+name: npm install
+description: Run 'npm install' to download
+author: Craig Forster
+authorinfo: craig.forster@sailpoint.com
+keywords: npm
+-->
+<exec command="npm">
+<arg>install</arg>
